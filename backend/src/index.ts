@@ -31,9 +31,8 @@ app.use(
     })
 );
 
-app.get("/", asyncHandler((req: Request, res: Response, next: NextFunction) => {
-    throw new Error("Test Error");
-    res.status(HTTPSTATUS.OK).json({
+app.get("/", asyncHandler(async (req: Request, res: Response, next: NextFunction) => {
+    return res.status(HTTPSTATUS.OK).json({
         message: "Hello World",
     });
 })
