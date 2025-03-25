@@ -12,7 +12,7 @@ export interface AccountDocument extends Document {
 
 }
 
-export const accountSchema = new Schema<AccountDocument>({
+const accountSchema = new Schema<AccountDocument>({
     userId: {
         type: Schema.Types.ObjectId,
         ref: "User",
