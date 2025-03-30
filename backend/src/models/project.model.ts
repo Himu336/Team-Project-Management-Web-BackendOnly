@@ -1,5 +1,6 @@
 import mongoose, { Document, Schema } from "mongoose";
 
+
 export interface ProjectDocument extends Document {
   name: string;
   description: string | null; // Optional description for the project
