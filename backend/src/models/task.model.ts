@@ -23,7 +23,7 @@ const tasksSchema = new Schema<TaskDocument>({
     taskCode:{
         type: String,
         unique: true,
-        deafault: generateTaskCode,
+        default: generateTaskCode,
     },
     title: {
         type: String,
