@@ -4,9 +4,6 @@ Team-Project-Management-Web (Backend) is a scalable and modular backend system b
 
 ---
 ## API Documentation (Postman)
-
-![Postman API Documentation](https://www.postman.com/assets/logos/postman-logo-stacked.svg)
-
 Explore and test all API endpoints using the Postman collection.
 
 **View the full Postman documentation here:**  
