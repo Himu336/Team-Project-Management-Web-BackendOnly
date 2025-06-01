@@ -1,6 +1,6 @@
-# 🌟 WorkStrat-Enterprise-Solution
+# 🌟 Team-Project-Management-Web (Backend)
 
-**WorkStrat-Enterprise-Solution** is a comprehensive platform designed to streamline project and workspace management for enterprises. It offers a robust set of features to manage tasks, projects, and team collaboration efficiently.
+Team-Project-Management-Web (Backend) is a scalable and modular backend system built to support enterprise-grade project and workspace management. Developed with a strong emphasis on RESTful API design, this backend solution handles user authentication, role-based access, workspace and project lifecycle, task management, and real-time collaboration endpoints. Designed to be integrated with any frontend, it demonstrates key backend engineering principles including secure API development, modular architecture, and efficient data handling.
 
 ---
 
