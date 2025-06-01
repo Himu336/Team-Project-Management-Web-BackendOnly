@@ -3,6 +3,14 @@
 Team-Project-Management-Web (Backend) is a scalable and modular backend system built to support enterprise-grade project and workspace management. Developed with a strong emphasis on RESTful API design, this backend solution handles user authentication, role-based access, workspace and project lifecycle, task management, and real-time collaboration endpoints. Designed to be integrated with any frontend, it demonstrates key backend engineering principles including secure API development, modular architecture, and efficient data handling.
 
 ---
+## API Documentation (Postman)
+
+![Postman API Documentation](https://www.postman.com/assets/logos/postman-logo-stacked.svg)
+
+Explore and test all API endpoints using the Postman collection.
+
+**View the full Postman documentation here:**  
+[https://documenter.getpostman.com/view/41712048/2sB2qgeJZP](https://documenter.getpostman.com/view/41712048/2sB2qgeJZP)
 
 ## 📚 Table of Contents
 
